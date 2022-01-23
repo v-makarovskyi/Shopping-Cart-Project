@@ -16,3 +16,8 @@ During the development process, the addition and removal of goods from the baske
 The application contains a backend for storing goods. Development was carried out using Node.js and express.js
 
 #### 🎥 Demo
+
+
+
+https://user-images.githubusercontent.com/95641884/150679612-4f7cdcba-85e7-4231-847c-e7db9834075f.mp4
+
